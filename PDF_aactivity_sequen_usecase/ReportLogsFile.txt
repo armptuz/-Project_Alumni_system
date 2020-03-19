@@ -1,0 +1,578 @@
+USERNAME || DATE || DETAIL 
+1 admin || 2019-03-04 13:59:57.0 || Login
+2 admin || 2019-03-04 11:16:22.0 || Go to Information
+3 admin || 2019-03-04 11:16:17.0 || Go to allinformation
+4 admin || 2019-03-04 11:16:15.0 || Login
+5 thiti || 2019-03-04 11:14:41.0 || Logout
+6 thiti || 2019-03-04 11:14:39.0 || Go to allinformation
+7 thiti || 2019-03-04 11:14:33.0 || Login
+8 thiti || 2019-03-04 11:13:37.0 || go to AlumniDisplay
+9 thiti || 2019-03-04 11:13:35.0 || Login
+10 admin || 2019-03-04 10:13:13.0 || Back to Home2
+11 admin || 2019-03-04 10:13:03.0 || Go to Editmember
+12 admin || 2019-03-04 10:13:01.0 || Login
+13 employee || 2019-03-04 10:12:56.0 || Logout
+14 employee || 2019-03-04 10:12:44.0 || Go to allinformation
+15 employee || 2019-03-04 10:12:38.0 || Go to Information
+16 employee || 2019-03-04 10:12:35.0 || Go to allinformation
+17 employee || 2019-03-04 10:12:32.0 || Login
+18 admin || 2019-03-04 10:12:24.0 || Logout
+19 admin || 2019-03-04 10:12:22.0 || go to AlumniDisplay
+20 admin || 2019-03-04 10:12:20.0 || Login
+21 a || 2019-03-04 10:12:17.0 || Logout
+22 a || 2019-03-04 10:12:16.0 || Go to allinformation
+23 a || 2019-03-04 10:12:01.0 || Go to Information
+24 a || 2019-03-04 10:11:57.0 || Go to allinformation
+25 a || 2019-03-04 10:11:55.0 || Login
+26 employee || 2019-03-04 10:11:47.0 || Logout
+27 employee || 2019-03-04 10:11:42.0 || Go to allinformation
+28 employee || 2019-03-04 10:11:40.0 || Search : abc
+29 employee || 2019-03-04 10:11:38.0 || UPDATED  id 41 :,
+thitiwas
+,nupan
+,idF : 25
+,idB : 60
+,2559
+,6666
+30 employee || 2019-03-04 10:11:29.0 || Search : thitiwas
+31 employee || 2019-03-04 10:11:26.0 || Search : thiti
+32 employee || 2019-03-04 10:11:22.0 || Search : kk
+33 employee || 2019-03-04 10:11:18.0 || Search : abc
+34 employee || 2019-03-04 10:11:14.0 || back to alumniDisplay
+35 employee || 2019-03-04 10:11:13.0 || go back to FacultyDisplay
+36 employee || 2019-03-04 10:11:12.0 || INSERTED : cdf,
+fId : 25
+37 employee || 2019-03-04 10:11:07.0 || go to updateBranch
+38 employee || 2019-03-04 10:11:05.0 || INSERTED F : abc
+39 employee || 2019-03-04 10:10:55.0 || Go to UpdateF&B
+40 employee || 2019-03-04 10:10:49.0 || go to AlumniDisplay
+41 employee || 2019-03-04 10:10:44.0 || Login
+42 a || 2019-03-04 10:10:39.0 || Logout
+43 a || 2019-03-04 10:10:38.0 || Search : xxxx
+44 a || 2019-03-04 10:10:36.0 || Search : คณะวิศวกรรมศาสตร์
+45 a || 2019-03-04 10:10:35.0 || Search : คณะศิลปศาสตร์
+46 a || 2019-03-04 10:10:31.0 || Search : 2559
+47 a || 2019-03-04 10:10:23.0 || Search : thitiwas
+48 a || 2019-03-04 10:10:16.0 || go to AlumniDisplay
+49 a || 2019-03-04 10:10:09.0 || Login
+50 admin || 2019-03-03 22:51:30.0 || Login
+51 employee || 2019-03-03 22:51:27.0 || Logout
+52 employee || 2019-03-03 22:51:23.0 || go to AlumniDisplay
+53 employee || 2019-03-03 22:51:20.0 || Login
+54 employee || 2019-03-03 22:30:00.0 || Logout
+55 employee || 2019-03-03 22:29:50.0 || go to AlumniDisplay
+56 employee || 2019-03-03 22:29:36.0 || Login
+57 admin || 2019-03-03 18:08:03.0 || Login
+58 admin || 2019-03-03 18:03:24.0 || Login
+59 admin || 2019-03-02 22:01:36.0 || Login
+60 admin || 2019-03-02 15:02:57.0 || Login
+61 admin || 2019-03-02 15:02:46.0 || Logout
+62 admin || 2019-03-02 15:02:40.0 || go to AlumniDisplay
+63 admin || 2019-03-02 15:02:34.0 || Login
+64 thiti || 2019-03-02 00:26:07.0 || Logout
+65 thiti || 2019-03-02 00:26:05.0 || Go to allinformation
+66 thiti || 2019-03-02 00:25:50.0 || Go to Information
+67 thiti || 2019-03-02 00:25:46.0 || Go to allinformation
+68 thiti || 2019-03-02 00:25:44.0 || Login
+69 employee || 2019-03-02 00:25:36.0 || Logout
+70 employee || 2019-03-02 00:25:31.0 || back to alumniDisplay
+71 employee || 2019-03-02 00:25:29.0 || go back to FacultyDisplay
+72 employee || 2019-03-02 00:25:27.0 || go to updateBranch
+73 employee || 2019-03-02 00:25:19.0 || Go to UpdateF&B
+74 employee || 2019-03-02 00:25:13.0 || Search : thitiwas
+75 employee || 2019-03-02 00:25:10.0 || UPDATED  id 41 :,
+thitiwas
+,nupan
+,idF : 3
+,idB : 19
+,2559
+,6666
+76 employee || 2019-03-02 00:25:00.0 || Search : thitiwas
+77 employee || 2019-03-02 00:24:58.0 || Search : thiti
+78 employee || 2019-03-02 00:24:52.0 || go to AlumniDisplay
+79 employee || 2019-03-02 00:24:50.0 || Login
+80 admin || 2019-03-02 00:24:46.0 || Logout
+81 admin || 2019-03-02 00:24:43.0 || go to AlumniDisplay
+82 admin || 2019-03-02 00:24:40.0 || Login
+83 admin || 2019-03-02 00:24:22.0 || Logout
+84 admin || 2019-03-02 00:24:17.0 || Login
+85 admin || 2019-03-01 23:44:04.0 || Login
+86 admin || 2019-03-01 23:32:45.0 || Login
+87 admin || 2019-03-01 23:27:21.0 || Login
+88 admin || 2019-03-01 23:26:17.0 || Login
+89 employee || 2019-03-01 23:26:15.0 || Logout
+90 employee || 2019-03-01 23:26:13.0 || Login
+91 thiti || 2019-03-01 22:33:03.0 || UPDATE my job
+92 thiti || 2019-03-01 22:32:53.0 || Login
+93 thiti || 2019-03-01 22:31:04.0 || Search : thitiwas
+94 thiti || 2019-03-01 22:31:01.0 || go to AlumniDisplay
+95 thiti || 2019-03-01 22:30:58.0 || Login
+96 thiti || 2019-03-01 22:30:52.0 || UPDATE my job
+97 thiti || 2019-03-01 22:30:42.0 || Login
+98 admin || 2019-03-01 22:12:07.0 || Logout
+99 admin || 2019-03-01 22:12:04.0 || go to AlumniDisplay
+100 admin || 2019-03-01 22:11:55.0 || Login
+101 peeghost || 2019-03-01 22:03:12.0 || Logout
+102 peeghost || 2019-03-01 22:03:10.0 || Go to allinformation
+103 peeghost || 2019-03-01 22:02:33.0 || Go to Information
+104 peeghost || 2019-03-01 22:02:06.0 || Go to allinformation
+105 peeghost || 2019-03-01 22:01:46.0 || Login
+106 peeghost || 2019-03-01 22:01:40.0 || Logout
+107 peeghost || 2019-03-01 22:01:36.0 || Search : thitiwas
+108 peeghost || 2019-03-01 22:01:30.0 || go to AlumniDisplay
+109 peeghost || 2019-03-01 22:01:27.0 || Login
+110 peeghost || 2019-03-01 22:00:59.0 || Go to allinformation
+111 peeghost || 2019-03-01 22:00:34.0 || Login
+112 employee || 2019-03-01 22:00:29.0 || Logout
+113 employee || 2019-03-01 22:00:28.0 || Back to Home2
+114 employee || 2019-03-01 22:00:13.0 || Go to Editmember
+115 employee || 2019-03-01 22:00:12.0 || Login
+116 peeghost || 2019-03-01 21:59:53.0 || Login
+117 admin || 2019-03-01 21:59:32.0 || Logout
+118 admin || 2019-03-01 21:59:16.0 || Login
+119 peeghost || 2019-03-01 20:13:33.0 || Login
+120 admin || 2019-03-01 20:13:22.0 || Logout
+121 admin || 2019-03-01 20:13:20.0 || UPDATED  id 53 :,
+ชโลปกรร์
+,ทิมกุล
+,idF : 1
+,idB : 6
+,2542
+,ขก.ไม่ทำงาน
+122 admin || 2019-03-01 20:13:13.0 || Search : ชโลปกรณ์
+123 admin || 2019-03-01 20:13:05.0 || go to AlumniDisplay
+124 admin || 2019-03-01 20:13:02.0 || Back to Home2
+125 admin || 2019-03-01 20:12:58.0 || Go to Editmember
+126 admin || 2019-03-01 20:12:57.0 || Login
+127 peeghost || 2019-03-01 20:12:45.0 || Login
+128 admin || 2019-03-01 20:12:25.0 || Logout
+129 admin || 2019-03-01 20:12:22.0 || Search : ชโลปกรณ์
+130 admin || 2019-03-01 20:12:08.0 || INSERTED : ชโลปกรณ์
+,ทิมกุล
+,idF : 1
+,idB : 6
+,2542
+,ขก.ไม่ทำงาน
+131 admin || 2019-03-01 20:11:29.0 || go to AlumniDisplay
+132 admin || 2019-03-01 20:11:20.0 || Back to Home2
+133 admin || 2019-03-01 20:10:34.0 || Go to Editmember
+134 admin || 2019-03-01 20:10:31.0 || Login
+135 peeghost || 2019-03-01 20:10:24.0 || Logout
+136 peeghost || 2019-03-01 20:10:21.0 || Go to allinformation
+137 peeghost || 2019-03-01 20:10:08.0 || Go to Information
+138 peeghost || 2019-03-01 20:10:03.0 || Go to allinformation
+139 peeghost || 2019-03-01 20:09:57.0 || GO to Home2
+140 peeghost || 2019-03-01 20:09:55.0 || Go to allinformation
+141 peeghost || 2019-03-01 20:09:41.0 || Login
+142 admin || 2019-03-01 20:09:27.0 || Logout
+143 admin || 2019-03-01 20:09:26.0 || Back to Home2
+144 admin || 2019-03-01 20:09:14.0 || Go to Editmember
+145 admin || 2019-03-01 20:09:13.0 || Login
+146 admin || 2019-03-01 20:07:34.0 || Back to Home2
+147 admin || 2019-03-01 20:07:24.0 || Go to Editmember
+148 admin || 2019-03-01 20:07:11.0 || Login
+149 thiti || 2019-03-01 20:07:04.0 || Logout
+150 thiti || 2019-03-01 20:07:01.0 || Go to allinformation
+151 thiti || 2019-03-01 20:06:42.0 || Go to Information
+152 thiti || 2019-03-01 20:06:33.0 || Go to allinformation
+153 thiti || 2019-03-01 20:06:31.0 || Login
+154 admin || 2019-03-01 20:06:22.0 || Logout
+155 admin || 2019-03-01 20:06:20.0 || Go to allinformation
+156 admin || 2019-03-01 20:06:14.0 || Go to Information
+157 admin || 2019-03-01 20:05:38.0 || Go to allinformation
+158 admin || 2019-03-01 20:05:23.0 || Login
+159 thiti || 2019-03-01 20:00:38.0 || Go to Information
+160 thiti || 2019-03-01 20:00:29.0 || Go to allinformation
+161 thiti || 2019-03-01 20:00:28.0 || go to AlumniDisplay
+162 thiti || 2019-03-01 19:59:28.0 || Login
+163 admin || 2019-03-01 19:59:15.0 || go to AlumniDisplay
+164 admin || 2019-03-01 19:59:12.0 || GO to Home2
+165 admin || 2019-03-01 19:59:08.0 || Go to allinformation
+166 admin || 2019-03-01 19:58:56.0 || Go to Information
+167 admin || 2019-03-01 19:58:13.0 || Go to allinformation
+168 admin || 2019-03-01 19:58:08.0 || Login
+169 armm || 2019-03-01 17:41:10.0 || go to AlumniDisplay
+170 armm || 2019-03-01 17:41:07.0 || GO to Home2
+171 armm || 2019-03-01 17:41:06.0 || Go to allinformation
+172 armm || 2019-03-01 17:40:57.0 || Login
+173 armm || 2019-03-01 17:39:14.0 || Logout
+174 armm || 2019-03-01 17:39:11.0 || GO to Home2
+175 armm || 2019-03-01 17:39:08.0 || Go to allinformation
+176 armm || 2019-03-01 17:38:55.0 || GO to Home2
+177 armm || 2019-03-01 17:38:46.0 || Go to allinformation
+178 armm || 2019-03-01 17:38:24.0 || Login
+179 armm || 2019-03-01 17:37:04.0 || GO to Home2
+180 armm || 2019-03-01 17:37:00.0 || Go to allinformation
+181 armm || 2019-03-01 17:36:57.0 || Search : 2558
+182 armm || 2019-03-01 17:36:51.0 || Search : คณะครุศาสตร์อุตสาหกรรม
+183 armm || 2019-03-01 17:36:48.0 || Search : คณะวิทยาศาสตร์และเทคโนโลยี
+184 armm || 2019-03-01 17:36:42.0 || go to AlumniDisplay
+185 armm || 2019-03-01 17:36:40.0 || GO to Home2
+186 armm || 2019-03-01 17:36:38.0 || Go to allinformation
+187 armm || 2019-03-01 17:36:34.0 || Go to Information
+188 armm || 2019-03-01 17:36:29.0 || Go to allinformation
+189 armm || 2019-03-01 17:36:27.0 || Login
+190 admin || 2019-03-01 17:34:06.0 || Logout
+191 admin || 2019-03-01 17:33:57.0 || go to AlumniDisplay
+192 admin || 2019-03-01 17:33:55.0 || GO to Home2
+193 admin || 2019-03-01 17:33:53.0 || Go to allinformation
+194 admin || 2019-03-01 17:33:51.0 || Login
+195 admin || 2019-03-01 17:32:42.0 || GO to Home2
+196 admin || 2019-03-01 17:32:33.0 || Go to allinformation
+197 admin || 2019-03-01 17:32:27.0 || Go to Information
+198 admin || 2019-03-01 17:32:16.0 || Go to allinformation
+199 admin || 2019-03-01 17:32:14.0 || Login
+200 admin || 2019-03-01 17:31:32.0 || GO to Home2
+201 admin || 2019-03-01 17:31:30.0 || Go to allinformation
+202 admin || 2019-03-01 17:31:29.0 || Login
+203 admin || 2019-03-01 17:29:25.0 || Go to allinformation
+204 admin || 2019-03-01 17:29:20.0 || Go to Information
+205 admin || 2019-03-01 17:29:11.0 || Go to allinformation
+206 admin || 2019-03-01 17:28:19.0 || Go to Editmember
+207 admin || 2019-03-01 17:28:16.0 || Login
+208 arm || 2019-03-01 17:27:34.0 || Logout
+209 arm || 2019-03-01 17:27:32.0 || Go to allinformation
+210 arm || 2019-03-01 17:27:29.0 || Go to Information
+211 arm || 2019-03-01 17:27:25.0 || Go to allinformation
+212 arm || 2019-03-01 17:27:20.0 || Go to Information
+213 arm || 2019-03-01 17:27:17.0 || Go to allinformation
+214 arm || 2019-03-01 17:27:15.0 || Login
+215 admin || 2019-03-01 17:26:51.0 || Go to Information
+216 admin || 2019-03-01 17:26:44.0 || Go to allinformation
+217 admin || 2019-03-01 17:26:42.0 || Login
+218 admin || 2019-03-01 17:25:25.0 || Go to allinformation
+219 admin || 2019-03-01 17:25:23.0 || Login
+220 admin || 2019-03-01 17:24:01.0 || Go to Information
+221 admin || 2019-03-01 17:23:59.0 || Go to allinformation
+222 admin || 2019-03-01 17:23:57.0 || Go to Information
+223 admin || 2019-03-01 17:23:54.0 || Go to allinformation
+224 admin || 2019-03-01 17:23:53.0 || Login
+225 arm || 2019-03-01 17:23:05.0 || Go to Information
+226 arm || 2019-03-01 17:23:00.0 || Go to allinformation
+227 arm || 2019-03-01 17:22:57.0 || Go to Information
+228 arm || 2019-03-01 17:22:52.0 || Go to allinformation
+229 arm || 2019-03-01 17:22:50.0 || Login
+230 arm || 2019-03-01 17:21:44.0 || Go to Information
+231 arm || 2019-03-01 17:21:41.0 || Go to allinformation
+232 arm || 2019-03-01 17:21:40.0 || Login
+233 arm || 2019-03-01 17:19:33.0 || Go to Information
+234 arm || 2019-03-01 17:19:25.0 || Go to allinformation
+235 arm || 2019-03-01 17:19:23.0 || Login
+236 arm || 2019-03-01 17:18:38.0 || Go to Information
+237 arm || 2019-03-01 17:18:30.0 || Go to allinformation
+238 arm || 2019-03-01 17:18:29.0 || Login
+239 admin || 2019-03-01 17:18:04.0 || Go to Information
+240 admin || 2019-03-01 17:17:59.0 || Go to allinformation
+241 admin || 2019-03-01 17:17:58.0 || Login
+242 admin || 2019-03-01 17:16:12.0 || Go to Information
+243 admin || 2019-03-01 17:16:09.0 || Go to allinformation
+244 admin || 2019-03-01 17:16:07.0 || Login
+245 admin || 2019-03-01 17:06:40.0 || Go to allinformation
+246 admin || 2019-03-01 17:06:39.0 || Login
+247 admin || 2019-03-01 17:04:04.0 || Go to allinformation
+248 admin || 2019-03-01 17:04:00.0 || Login
+249 arm || 2019-03-01 16:31:28.0 || Go to allinformation
+250 arm || 2019-03-01 16:31:16.0 || Login
+251 admin || 2019-03-01 16:30:28.0 || Go to allinformation
+252 admin || 2019-03-01 16:30:27.0 || Login
+253 admin || 2019-03-01 16:29:21.0 || Go to allinformation
+254 admin || 2019-03-01 16:29:18.0 || Login
+255 admin || 2019-03-01 16:26:02.0 || Go to allinformation
+256 admin || 2019-03-01 16:26:01.0 || Login
+257 admin || 2019-03-01 16:23:52.0 || Go to allinformation
+258 admin || 2019-03-01 16:23:51.0 || Login
+259 admin || 2019-03-01 16:22:17.0 || Go to allinformation
+260 admin || 2019-03-01 16:22:16.0 || Login
+261 admin || 2019-03-01 16:19:34.0 || Go to allinformation
+262 admin || 2019-03-01 16:19:32.0 || Login
+263 admin || 2019-03-01 16:18:03.0 || Go to allinformation
+264 admin || 2019-03-01 16:18:02.0 || Login
+265 admin || 2019-03-01 16:17:18.0 || Go to allinformation
+266 admin || 2019-03-01 16:17:16.0 || Login
+267 admin || 2019-03-01 16:15:45.0 || Go to allinformation
+268 admin || 2019-03-01 16:15:42.0 || Login
+269 admin || 2019-03-01 16:14:17.0 || Go to allinformation
+270 admin || 2019-03-01 16:14:15.0 || Login
+271 admin || 2019-03-01 16:07:27.0 || Go to allinformation
+272 admin || 2019-03-01 16:07:24.0 || Login
+273 admin || 2019-03-01 15:50:42.0 || Go to allinformation
+274 admin || 2019-03-01 15:50:40.0 || Login
+275 aaaaa || 2019-03-01 15:49:58.0 || Go to allinformation
+276 aaaaa || 2019-03-01 15:49:56.0 || Login
+277 admin || 2019-03-01 15:49:46.0 || Login
+278 aaaaa || 2019-03-01 15:49:04.0 || go to AlumniDisplay
+279 aaaaa || 2019-03-01 15:49:02.0 || Login
+280 aaaaa || 2019-03-01 15:48:56.0 || Logout
+281 aaaaa || 2019-03-01 15:48:55.0 || Go to allinformation
+282 aaaaa || 2019-03-01 15:48:53.0 || Login
+283 aaaaa || 2019-03-01 15:48:23.0 || Logout
+284 aaaaa || 2019-03-01 15:48:20.0 || Login
+285 aaaaa || 2019-03-01 15:48:00.0 || Go to allinformation
+286 aaaaa || 2019-03-01 15:47:59.0 || Login
+287 aaaaa || 2019-03-01 15:45:42.0 || Go to allinformation
+288 aaaaa || 2019-03-01 15:45:40.0 || Login
+289 aaaaa || 2019-03-01 15:44:59.0 || Go to allinformation
+290 aaaaa || 2019-03-01 15:44:57.0 || Login
+291 aaaaa || 2019-03-01 15:36:53.0 || Login
+292 admin || 2019-03-01 15:28:43.0 || Logout
+293 admin || 2019-03-01 15:28:41.0 || Login
+294 admin || 2019-03-01 15:27:32.0 || Search : testProfile
+295 admin || 2019-03-01 15:27:15.0 || Search : คณะครุศาสตร์อุตสาหกรรม
+296 admin || 2019-03-01 15:27:12.0 || Search : คณะวิทยาศาสตร์และเทคโนโลยี
+297 admin || 2019-03-01 15:27:10.0 || Search : คณะวิศวกรรมศาสตร์
+298 admin || 2019-03-01 15:27:08.0 || Search : คณะศิลปศาสตร์
+299 admin || 2019-03-01 15:27:01.0 || Search : นาย
+300 admin || 2019-03-01 15:26:42.0 || Search : คณะครุศาสตร์อุตสาหกรรม
+301 admin || 2019-03-01 15:26:41.0 || Search : คณะวิทยาศาสตร์และเทคโนโลยี
+302 admin || 2019-03-01 15:26:40.0 || Search : คณะศิลปศาสตร์
+303 admin || 2019-03-01 15:26:26.0 || go to AlumniDisplay
+304 admin || 2019-03-01 15:26:24.0 || Login
+305 admin || 2019-03-01 15:25:42.0 || Login
+306 thiti || 2019-03-01 14:48:44.0 || go to AlumniDisplay
+307 thiti || 2019-03-01 14:48:36.0 || Login
+308 user || 2019-03-01 13:54:27.0 || Search : 64666
+309 user || 2019-03-01 13:54:23.0 || go to AlumniDisplay
+310 user || 2019-03-01 13:54:20.0 || Login
+311 thiti || 2019-03-01 13:44:23.0 || Logout
+312 thiti || 2019-03-01 13:44:19.0 || go to AlumniDisplay
+313 thiti || 2019-03-01 13:44:15.0 || Login
+314 admin || 2019-03-01 13:41:54.0 || Logout
+315 admin || 2019-03-01 13:41:50.0 || Search : aaaa
+316 admin || 2019-03-01 13:41:47.0 || INSERTED : 1
+,1
+,idF : 24
+,idB : 58
+,2558
+,1
+317 admin || 2019-03-01 13:41:33.0 || Search : aaaa
+318 admin || 2019-03-01 13:41:31.0 || back to alumniDisplay
+319 admin || 2019-03-01 13:41:30.0 || go back to FacultyDisplay
+320 admin || 2019-03-01 13:41:29.0 || INSERTED : bbbbb,
+fId : 24
+321 admin || 2019-03-01 13:41:26.0 || INSERTED : aaaaaa,
+fId : 24
+322 admin || 2019-03-01 13:41:22.0 || go to updateBranch
+323 admin || 2019-03-01 13:41:20.0 || INSERTED F : aaaa
+324 admin || 2019-03-01 13:41:07.0 || Go to UpdateF&B
+325 admin || 2019-03-01 13:40:23.0 || back to alumniDisplay
+326 admin || 2019-03-01 13:40:14.0 || Go to UpdateF&B
+327 admin || 2019-03-01 13:39:52.0 || go to AlumniDisplay
+328 admin || 2019-03-01 13:39:49.0 || Login
+329 user || 2019-03-01 13:39:41.0 || Logout
+330 user || 2019-03-01 13:39:40.0 || Search : คณะเทคโนโลยีคหกรรมศาสตร์
+331 user || 2019-03-01 13:39:30.0 || go to AlumniDisplay
+332 user || 2019-03-01 13:39:20.0 || Login
+333 user || 2019-03-01 13:39:00.0 || Login
+334 admin || 2019-03-01 13:38:55.0 || Logout
+335 admin || 2019-03-01 13:38:48.0 || Login
+336 thiti || 2019-03-01 13:35:05.0 || Login
+337 member || 2019-03-01 13:34:52.0 || Login
+338 admin || 2019-03-01 13:34:48.0 || Logout
+339 admin || 2019-03-01 13:34:46.0 || Back to Home2
+340 admin || 2019-03-01 13:34:16.0 || Go to Editmember
+341 admin || 2019-03-01 13:34:13.0 || Login
+342 thiti || 2019-03-01 13:23:45.0 || Login
+343 admin || 2019-03-01 13:23:42.0 || Logout
+344 admin || 2019-03-01 13:23:41.0 || Back to Home2
+345 admin || 2019-03-01 13:23:35.0 || Go to Editmember
+346 admin || 2019-03-01 13:23:34.0 || Login
+347 admin || 2019-03-01 13:23:29.0 || Logout
+348 admin || 2019-03-01 13:23:27.0 || Back to Home2
+349 admin || 2019-03-01 13:22:27.0 || Go to Editmember
+350 admin || 2019-03-01 13:22:25.0 || Login
+351 thiti || 2019-03-01 13:22:13.0 || Login
+352 admin || 2019-03-01 13:22:09.0 || Logout
+353 admin || 2019-03-01 13:22:08.0 || Back to Home2
+354 admin || 2019-03-01 13:22:01.0 || Go to Editmember
+355 admin || 2019-03-01 13:21:59.0 || Login
+356 member || 2019-03-01 13:21:46.0 || Login
+357 admin || 2019-03-01 13:21:42.0 || Logout
+358 admin || 2019-03-01 13:21:41.0 || Back to Home2
+359 admin || 2019-03-01 13:21:35.0 || Go to Editmember
+360 admin || 2019-03-01 13:21:34.0 || Login
+361 admin || 2019-03-01 13:21:26.0 || Logout
+362 admin || 2019-03-01 13:21:25.0 || Back to Home2
+363 admin || 2019-03-01 13:18:39.0 || Go to Editmember
+364 admin || 2019-03-01 13:18:36.0 || Login
+365 admin || 2019-03-01 13:17:28.0 || Go to Editmember
+366 admin || 2019-03-01 13:17:24.0 || Login
+367 admin || 2019-03-01 12:16:36.0 || Logout
+368 admin || 2019-03-01 12:15:19.0 || Search : xxxx
+369 admin || 2019-03-01 12:15:15.0 || INSERTED : adawd
+,123aaaaaaaa
+,idF : 23
+,idB : 57
+,1999
+,aaaa
+370 admin || 2019-03-01 12:14:52.0 || Search : xxxx
+371 admin || 2019-03-01 12:14:48.0 || back to alumniDisplay
+372 admin || 2019-03-01 12:14:45.0 || go back to FacultyDisplay
+373 admin || 2019-03-01 12:14:43.0 || INSERTED : yyyy,
+fId : 23
+374 admin || 2019-03-01 12:14:36.0 || go to updateBranch
+375 admin || 2019-03-01 12:14:30.0 || INSERTED F : xxxx
+376 admin || 2019-03-01 12:14:21.0 || Go to UpdateF&B
+377 admin || 2019-03-01 12:14:19.0 || go to AlumniDisplay
+378 admin || 2019-03-01 12:14:16.0 || Login
+379 user || 2019-03-01 12:14:11.0 || Logout
+380 user || 2019-03-01 12:14:05.0 || Search : หทูกรอบ
+381 user || 2019-03-01 12:13:59.0 || Search : หทูกรอบ
+382 user || 2019-03-01 12:13:36.0 || go to AlumniDisplay
+383 user || 2019-03-01 12:13:33.0 || Login
+384 admin || 2019-03-01 12:13:31.0 || Logout
+385 admin || 2019-03-01 12:13:25.0 || go to AlumniDisplay
+386 admin || 2019-03-01 12:13:00.0 || Login
+387 user || 2019-03-01 12:12:53.0 || Logout
+388 user || 2019-03-01 12:12:48.0 || go to AlumniDisplay
+389 user || 2019-03-01 12:12:44.0 || Login
+390 user || 2019-03-01 12:11:19.0 || Login
+391 admin || 2019-03-01 12:11:12.0 || Logout
+392 admin || 2019-03-01 12:11:05.0 || Search : 2562
+393 admin || 2019-03-01 12:11:00.0 || Search : 2559
+394 admin || 2019-03-01 12:10:57.0 || Search : 2558
+395 admin || 2019-03-01 12:10:47.0 || go to AlumniDisplay
+396 admin || 2019-03-01 12:10:40.0 || Login
+397 testProfile || 2019-02-27 14:24:49.0 || Login
+398 admin || 2019-02-27 14:24:32.0 || go to AlumniDisplay
+399 admin || 2019-02-27 14:24:21.0 || Back to Home2
+400 admin || 2019-02-27 14:23:59.0 || Go to Editmember
+401 admin || 2019-02-27 14:23:58.0 || Login
+402 thiti || 2019-02-27 14:23:38.0 || Login
+403 thiti || 2019-02-27 14:13:29.0 || Login
+404 admin || 2019-02-27 14:13:26.0 || Logout
+405 admin || 2019-02-27 14:13:25.0 || Back to Home2
+406 admin || 2019-02-27 14:13:21.0 || Go to Editmember
+407 admin || 2019-02-27 14:13:19.0 || Login
+408 testProfile || 2019-02-27 14:13:08.0 || Login
+409 thiti || 2019-02-27 14:11:02.0 || Login
+410 admin || 2019-02-27 14:10:53.0 || Back to Home2
+411 admin || 2019-02-27 14:10:53.0 || Logout
+412 admin || 2019-02-27 14:10:47.0 || Go to Editmember
+413 admin || 2019-02-27 14:10:45.0 || Login
+414 thiti || 2019-02-27 14:10:28.0 || Login
+415 admin || 2019-02-27 14:10:25.0 || Logout
+416 admin || 2019-02-27 14:10:23.0 || Back to Home2
+417 admin || 2019-02-27 14:09:29.0 || Go to Editmember
+418 admin || 2019-02-27 14:09:28.0 || Login
+419 admin || 2019-02-27 14:09:23.0 || Logout
+420 admin || 2019-02-27 14:09:20.0 || Search : thitiwas
+421 admin || 2019-02-27 14:09:18.0 || UPDATED  id 41 :,
+thitiwas
+,nupan
+,idF : 8
+,idB : 52
+,2559
+,SELECT alumni.Alumni_year Year ,alumni.Alumni_Fname firstname, Alumni_Lname lastname, faculty.Faculty_Name faculty ,branch.Branch_Name branch,alumni.Career_History,alumni.Alumni_Id FROM alumni,faculty,branch WHERE alumni.Faculty_ID = faculty.Faculty_ID and alumni.Branch_ID = branch.Branch_ID and alumni.status = 1 ORDER BY alumni.Alumni_year DESC
+422 admin || 2019-02-27 14:09:11.0 || Search : thitiwas
+423 admin || 2019-02-27 14:09:09.0 || DELETED id : 46
+424 admin || 2019-02-27 14:08:59.0 || Search : thitiwas
+425 admin || 2019-02-27 14:08:56.0 || go to AlumniDisplay
+426 admin || 2019-02-27 14:08:50.0 || Login
+427 admin || 2019-02-27 14:06:24.0 || Login
+428 testProfile || 2019-02-27 14:06:12.0 || Login
+429 testProfile || 2019-02-27 14:03:06.0 || go to AlumniDisplay
+430 testProfile || 2019-02-27 14:03:05.0 || Login
+431 testProfile || 2019-02-27 14:02:30.0 || go to AlumniDisplay
+432 testProfile || 2019-02-27 14:02:29.0 || Login
+433 testProfile || 2019-02-27 14:02:06.0 || go to AlumniDisplay
+434 testProfile || 2019-02-27 14:02:04.0 || Login
+435 testProfile || 2019-02-27 13:46:06.0 || go to AlumniDisplay
+436 testProfile || 2019-02-27 13:46:04.0 || Login
+437 testProfile || 2019-02-27 13:44:19.0 || go to AlumniDisplay
+438 testProfile || 2019-02-27 13:44:17.0 || Login
+439 testProfile || 2019-02-27 13:42:28.0 || go to AlumniDisplay
+440 testProfile || 2019-02-27 13:42:26.0 || Login
+441 testProfile || 2019-02-27 13:38:27.0 || go to AlumniDisplay
+442 testProfile || 2019-02-27 13:38:26.0 || Login
+443 testProfile || 2019-02-27 13:29:35.0 || go to AlumniDisplay
+444 testProfile || 2019-02-27 13:29:32.0 || Login
+445 testProfile || 2019-02-27 10:05:21.0 || go to AlumniDisplay
+446 testProfile || 2019-02-27 10:05:08.0 || Login
+447 admin || 2019-02-27 10:03:36.0 || Go to Editmember
+448 admin || 2019-02-27 10:03:34.0 || Login
+449 testProfile || 2019-02-27 10:01:06.0 || go to AlumniDisplay
+450 testProfile || 2019-02-27 10:01:04.0 || Login
+451 admin || 2019-02-27 10:00:59.0 || Logout
+452 admin || 2019-02-27 10:00:57.0 || Back to Home2
+453 admin || 2019-02-27 09:59:51.0 || Go to Editmember
+454 admin || 2019-02-27 09:59:49.0 || Login
+455 admin || 2019-02-27 09:59:46.0 || Logout
+456 admin || 2019-02-27 09:58:37.0 || INSERTED : testProfile
+,nupan
+,idF : 3
+,idB : 19
+,2562
+,Devoloper
+457 admin || 2019-02-27 09:57:51.0 || go to AlumniDisplay
+458 admin || 2019-02-27 09:57:48.0 || Login
+459 member || 2019-02-27 09:57:46.0 || Logout
+460 member || 2019-02-27 09:57:41.0 || Search : 
+461 member || 2019-02-27 09:57:17.0 || Search : thitiwas
+462 member || 2019-02-27 09:57:14.0 || go to AlumniDisplay
+463 member || 2019-02-27 09:57:11.0 || Login
+464 admin || 2019-02-27 09:38:43.0 || go to AlumniDisplay
+465 admin || 2019-02-27 09:38:34.0 || Login
+466 employee || 2019-02-27 02:06:05.0 || Logout
+467 employee || 2019-02-27 02:06:02.0 || Go to UpdateF&B
+468 employee || 2019-02-27 02:06:01.0 || go to AlumniDisplay
+469 employee || 2019-02-27 02:05:53.0 || Login
+470 admin || 2019-02-27 02:05:18.0 || Logout
+471 admin || 2019-02-27 02:05:11.0 || Go to UpdateF&B
+472 admin || 2019-02-27 02:05:07.0 || Go to UpdateF&B
+473 admin || 2019-02-27 02:05:05.0 || go to AlumniDisplay
+474 admin || 2019-02-27 02:05:01.0 || Login
+475 employee || 2019-02-27 02:02:39.0 || DELETED id49
+476 employee || 2019-02-27 02:02:34.0 || Search : god
+477 employee || 2019-02-27 02:02:27.0 || go to AlumniDisplay
+478 employee || 2019-02-27 02:02:24.0 || Login
+479 admin || 2019-02-27 02:00:44.0 || UPDATED : 49,
+God
+,คุตพันธ์
+,idF : 5
+,idB : 34
+,2559
+,asdawd
+480 admin || 2019-02-27 02:00:31.0 || Search : godddddddddd
+481 admin || 2019-02-27 02:00:29.0 || Search : god
+482 admin || 2019-02-27 02:00:23.0 || go to AlumniDisplay
+483 admin || 2019-02-27 02:00:22.0 || Login
+484 admin || 2019-02-27 01:57:43.0 || INSERTED : Goddddddddddddddddd
+,คุตพันธ์
+,idF : 5
+,idB : 34,
+2559
+,asdawd
+485 admin || 2019-02-27 01:57:18.0 || go to AlumniDisplay
+486 admin || 2019-02-27 01:57:16.0 || Login
+487 admin || 2019-02-27 01:51:28.0 || Search : 2558
+488 admin || 2019-02-27 01:51:26.0 || go to AlumniDisplay
+489 admin || 2019-02-27 01:51:24.0 || Login
+490 admin || 2019-02-27 01:50:28.0 || Search : 
+491 admin || 2019-02-27 01:50:24.0 || go to AlumniDisplay
+492 admin || 2019-02-27 01:50:22.0 || Login
+493 member || 2019-02-27 01:49:16.0 || Search : คณะครุศาสตร์อุตสาหกรรม
+494 member || 2019-02-27 01:49:13.0 || Search : คณะบริหารธุรกิจ
+495 member || 2019-02-27 01:49:09.0 || Search : 
+496 member || 2019-02-27 01:49:05.0 || go to AlumniDisplay
+497 member || 2019-02-27 01:49:03.0 || Login
+498 admin || 2019-02-27 01:48:53.0 || Search : 
+499 admin || 2019-02-27 01:48:48.0 || go to AlumniDisplay
+500 admin || 2019-02-27 01:48:45.0 || Login
+501 admin || 2019-02-27 01:47:27.0 || Search : หทูกรอบ
+502 admin || 2019-02-27 01:47:23.0 || Search :thitiwas
+503 admin || 2019-02-27 01:47:19.0 || go to AlumniDisplay
+504 admin || 2019-02-27 01:47:14.0 || Login
+505 admin || 2019-02-27 01:42:17.0 || Back to Home2
+506 admin || 2019-02-27 01:42:16.0 || Go to Editmember
+507 admin || 2019-02-27 01:42:14.0 || Login
+508 user || 2019-02-27 01:42:09.0 || Logout
+509 user || 2019-02-27 01:42:06.0 || Login
+510 admin || 2019-02-27 01:41:12.0 || Go to Editmember
+511 admin || 2019-02-27 01:41:11.0 || Login
+512 admin || 2019-02-27 01:39:29.0 || Logout
+513 admin || 2019-02-27 01:39:26.0 || Login
+514 admin || 2019-02-27 01:38:47.0 || Login
+515 user || 2019-02-27 01:29:28.0 || Login
+516 employee || 2019-02-27 01:29:24.0 || Login
+517 admin || 2019-02-27 01:29:07.0 || Login
+518 admin || 2019-02-27 01:17:52.0 || Test
